@@ -1,0 +1,67 @@
+2022/08/18-10:20:02.691 18da4 Reusing MANIFEST D:\dev\venom\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/18-10:20:02.692 18da4 Recovering log #918
+2022/08/18-10:20:02.799 18da4 Reusing old log D:\dev\venom\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000918.log 
+2022/08/18-10:20:16.536 167cc Level-0 table #929: started
+2022/08/18-10:20:16.837 167cc Level-0 table #929: 1203196 bytes OK
+2022/08/18-10:20:17.005 167cc Delete type=0 #918
+2022/08/18-10:20:17.351 190c4 Compacting 1@1 + 7@2 files
+2022/08/18-10:20:17.771 190c4 Generated table #930@1: 30673 keys, 2228121 bytes
+2022/08/18-10:20:18.061 190c4 Generated table #931@1: 2552 keys, 2150198 bytes
+2022/08/18-10:20:18.400 190c4 Generated table #932@1: 2298 keys, 2143257 bytes
+2022/08/18-10:20:18.799 190c4 Generated table #933@1: 17062 keys, 2196785 bytes
+2022/08/18-10:20:19.194 190c4 Generated table #934@1: 22898 keys, 2230258 bytes
+2022/08/18-10:20:19.702 190c4 Generated table #935@1: 71450 keys, 2214500 bytes
+2022/08/18-10:20:20.319 190c4 Generated table #936@1: 77161 keys, 1684443 bytes
+2022/08/18-10:20:20.319 190c4 Compacted 1@1 + 7@2 files => 14847562 bytes
+2022/08/18-10:20:20.382 190c4 compacted to: files[ 0 0 7 0 0 0 0 ]
+2022/08/18-10:30:38.807 190c4 Level-0 table #938: started
+2022/08/18-10:30:39.195 190c4 Level-0 table #938: 1260582 bytes OK
+2022/08/18-10:30:39.251 190c4 Delete type=2 #920
+2022/08/18-10:30:39.251 190c4 Delete type=2 #921
+2022/08/18-10:30:39.251 190c4 Delete type=2 #922
+2022/08/18-10:30:39.251 190c4 Delete type=2 #923
+2022/08/18-10:30:39.251 190c4 Delete type=2 #924
+2022/08/18-10:30:39.251 190c4 Delete type=2 #925
+2022/08/18-10:30:39.251 190c4 Delete type=2 #926
+2022/08/18-10:30:39.251 190c4 Delete type=0 #928
+2022/08/18-10:30:39.251 190c4 Delete type=2 #929
+2022/08/18-10:30:44.562 190c4 Compacting 1@1 + 7@2 files
+2022/08/18-10:30:44.872 190c4 Generated table #939@1: 36816 keys, 2231100 bytes
+2022/08/18-10:30:45.117 190c4 Generated table #940@1: 2396 keys, 2150818 bytes
+2022/08/18-10:30:45.362 190c4 Generated table #941@1: 2298 keys, 2142575 bytes
+2022/08/18-10:30:45.706 190c4 Generated table #942@1: 12762 keys, 2177532 bytes
+2022/08/18-10:30:46.284 190c4 Generated table #943@1: 26430 keys, 2254333 bytes
+2022/08/18-10:30:46.783 190c4 Generated table #944@1: 54528 keys, 2190162 bytes
+2022/08/18-10:30:47.273 190c4 Generated table #945@1: 96124 keys, 2095955 bytes
+2022/08/18-10:30:47.273 190c4 Compacted 1@1 + 7@2 files => 15242475 bytes
+2022/08/18-10:30:47.316 190c4 compacted to: files[ 0 0 7 0 0 0 0 ]
+2022/08/18-10:30:47.316 190c4 Delete type=2 #930
+2022/08/18-10:30:47.316 190c4 Delete type=2 #931
+2022/08/18-10:30:47.316 190c4 Delete type=2 #932
+2022/08/18-10:30:47.316 190c4 Delete type=2 #933
+2022/08/18-10:30:47.317 190c4 Delete type=2 #934
+2022/08/18-10:30:47.317 190c4 Delete type=2 #935
+2022/08/18-10:30:47.317 190c4 Delete type=2 #936
+2022/08/18-10:30:47.317 190c4 Delete type=2 #938
+2022/08/18-10:53:34.060 190c4 Level-0 table #947: started
+2022/08/18-10:53:34.415 190c4 Level-0 table #947: 1384933 bytes OK
+2022/08/18-10:53:34.493 190c4 Delete type=0 #937
+2022/08/18-10:53:36.693 17c2c Compacting 1@1 + 7@2 files
+2022/08/18-10:53:37.240 17c2c Generated table #948@1: 39994 keys, 2244018 bytes
+2022/08/18-10:53:37.571 17c2c Generated table #949@1: 2435 keys, 2154502 bytes
+2022/08/18-10:53:37.816 17c2c Generated table #950@1: 2323 keys, 2141666 bytes
+2022/08/18-10:53:38.081 17c2c Generated table #951@1: 10243 keys, 2163342 bytes
+2022/08/18-10:53:38.461 17c2c Generated table #952@1: 28301 keys, 2266860 bytes
+2022/08/18-10:53:38.837 17c2c Generated table #953@1: 43539 keys, 2178564 bytes
+2022/08/18-10:53:39.238 17c2c Generated table #954@1: 103903 keys, 2255780 bytes
+2022/08/18-10:53:39.367 17c2c Generated table #955@1: 4546 keys, 103180 bytes
+2022/08/18-10:53:39.367 17c2c Compacted 1@1 + 7@2 files => 15507912 bytes
+2022/08/18-10:53:39.437 17c2c compacted to: files[ 0 0 8 0 0 0 0 ]
+2022/08/18-10:53:39.437 17c2c Delete type=2 #939
+2022/08/18-10:53:39.437 17c2c Delete type=2 #940
+2022/08/18-10:53:39.437 17c2c Delete type=2 #941
+2022/08/18-10:53:39.437 17c2c Delete type=2 #942
+2022/08/18-10:53:39.437 17c2c Delete type=2 #943
+2022/08/18-10:53:39.437 17c2c Delete type=2 #944
+2022/08/18-10:53:39.437 17c2c Delete type=2 #945
+2022/08/18-10:53:39.437 17c2c Delete type=2 #947

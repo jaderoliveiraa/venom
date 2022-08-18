@@ -1,0 +1,49 @@
+2022/08/18-11:08:41.521 19208 Reusing MANIFEST D:\dev\venom\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/18-11:08:41.522 19208 Recovering log #946
+2022/08/18-11:08:41.588 19208 Reusing old log D:\dev\venom\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000946.log 
+2022/08/18-11:08:55.385 19208 Level-0 table #958: started
+2022/08/18-11:08:55.648 19208 Level-0 table #958: 1383500 bytes OK
+2022/08/18-11:08:55.688 19208 Delete type=0 #946
+2022/08/18-11:08:55.821 1934c Compacting 1@1 + 8@2 files
+2022/08/18-11:08:56.338 1934c Generated table #959@1: 39076 keys, 2252276 bytes
+2022/08/18-11:08:56.670 1934c Generated table #960@1: 6477 keys, 2156185 bytes
+2022/08/18-11:08:57.005 1934c Generated table #961@1: 2308 keys, 2140410 bytes
+2022/08/18-11:08:57.437 1934c Generated table #962@1: 6022 keys, 2155648 bytes
+2022/08/18-11:08:57.915 1934c Generated table #963@1: 30330 keys, 2252516 bytes
+2022/08/18-11:08:58.271 1934c Generated table #964@1: 34047 keys, 2186755 bytes
+2022/08/18-11:08:58.663 1934c Generated table #965@1: 103839 keys, 2256131 bytes
+2022/08/18-11:08:58.821 1934c Generated table #966@1: 17420 keys, 384281 bytes
+2022/08/18-11:08:58.821 1934c Compacted 1@1 + 8@2 files => 15784202 bytes
+2022/08/18-11:08:58.932 1934c compacted to: files[ 0 0 8 0 0 0 0 ]
+2022/08/18-11:42:45.909 1a428 Level-0 table #968: started
+2022/08/18-11:42:46.662 1a428 Level-0 table #968: 1342772 bytes OK
+2022/08/18-11:42:46.830 1a428 Delete type=2 #948
+2022/08/18-11:42:46.830 1a428 Delete type=2 #949
+2022/08/18-11:42:46.830 1a428 Delete type=2 #950
+2022/08/18-11:42:46.830 1a428 Delete type=2 #951
+2022/08/18-11:42:46.830 1a428 Delete type=2 #952
+2022/08/18-11:42:46.830 1a428 Delete type=2 #953
+2022/08/18-11:42:46.830 1a428 Delete type=2 #954
+2022/08/18-11:42:46.830 1a428 Delete type=2 #955
+2022/08/18-11:42:46.830 1a428 Delete type=0 #957
+2022/08/18-11:42:46.830 1a428 Delete type=2 #958
+2022/08/18-11:42:50.051 1a650 Compacting 1@1 + 8@2 files
+2022/08/18-11:42:50.541 1a650 Generated table #969@1: 38822 keys, 2254319 bytes
+2022/08/18-11:42:50.928 1a650 Generated table #970@1: 9935 keys, 2167765 bytes
+2022/08/18-11:42:51.140 1a650 Generated table #971@1: 2260 keys, 2140189 bytes
+2022/08/18-11:42:51.351 1a650 Generated table #972@1: 2952 keys, 2151463 bytes
+2022/08/18-11:42:51.663 1a650 Generated table #973@1: 30895 keys, 2251181 bytes
+2022/08/18-11:42:51.895 1a650 Generated table #974@1: 27391 keys, 2187116 bytes
+2022/08/18-11:42:52.173 1a650 Generated table #975@1: 104016 keys, 2255702 bytes
+2022/08/18-11:42:52.282 1a650 Generated table #976@1: 27104 keys, 602648 bytes
+2022/08/18-11:42:52.282 1a650 Compacted 1@1 + 8@2 files => 16010383 bytes
+2022/08/18-11:42:52.351 1a650 compacted to: files[ 0 0 8 0 0 0 0 ]
+2022/08/18-11:42:52.351 1a650 Delete type=2 #959
+2022/08/18-11:42:52.351 1a650 Delete type=2 #960
+2022/08/18-11:42:52.351 1a650 Delete type=2 #961
+2022/08/18-11:42:52.351 1a650 Delete type=2 #962
+2022/08/18-11:42:52.351 1a650 Delete type=2 #963
+2022/08/18-11:42:52.351 1a650 Delete type=2 #964
+2022/08/18-11:42:52.352 1a650 Delete type=2 #965
+2022/08/18-11:42:52.352 1a650 Delete type=2 #966
+2022/08/18-11:42:52.352 1a650 Delete type=2 #968
